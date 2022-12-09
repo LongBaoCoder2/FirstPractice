@@ -1,5 +1,4 @@
-str = input("Nhap chuoi : ")
-str = str.strip()
+str = input("Nhap chuoi : ").strip()
 arr = str.split(" ")
 
 print(arr)
